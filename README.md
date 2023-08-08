@@ -1,5 +1,6 @@
 # Soccer Player Value Prediction
-Link to original project class repo: https://github.com/COGS118A/Group018-Sp22
+- Full report in final_project_report.ipynb
+- Link to original project class repo: https://github.com/COGS118A/Group018-Sp22
 
 ## Abstract
 The goal of this project is to predict the financial value of a soccer player in the transfer market. The prediction is made by applying machine learning algorithms to a dataset containing various factors such as player performance, league participation, player position, and other relevant metrics. The insights derived from this analysis aim to shed light on the intricacies of player valuation in the world of professional football.
